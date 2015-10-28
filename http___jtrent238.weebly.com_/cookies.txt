@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jtrent238.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+.adf.ly	TRUE	/	FALSE	1999999999	__cfduid	d8c40d2bdf2223ef601e77b953c815f421445904122
+.google.com	TRUE	/	FALSE	1999999999	NID	72=uY-GwU0XC26NuZPJM2IopDPtHuPWdIQiO99L6JN0mFiPqXlgE1nfP-p8qF161Q62BWsZESF8HzodveNaEmra2GIbRVVMAQsGf71PZStYUwL28zrTgl8EhAH4t-rH-qRE
+weebly.com	TRUE	/	FALSE	1999999999	sto-id-editor	PJHLHLAK
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	562ebfb5-63a9b-3a164-08694
+weebly.com	TRUE	/	FALSE	1999999999	sto-id-nginx_assets	0
+editmysite.com	TRUE	/	FALSE	1999999999	sto-id-designer	CGHLHLAK
+jtrent238.weebly.com	TRUE	/	FALSE	1999999999	language	en
+
