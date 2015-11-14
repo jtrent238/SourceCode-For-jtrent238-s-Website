@@ -1,0 +1,82 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "jtrent238 & Tatapatt's Modpack",
+      "name" : "jtrent238 & Tatapatt's Modpack",
+      "version" : "2015-11-09-19-29-37",
+      "location" : "jtrent238-tatapatt-s-modpack.json",
+      "priority" : 1
+    },
+    {
+      "title" : "Vanilla 1.7.10",
+      "name" : "Vanilla 1.7.10",
+      "version" : "2015-11-09-17-05-11",
+      "location" : "vanilla-1.7.10.json",
+      "priority" : 1
+    },
+    {
+      "title" : "You Always Win ModPack - YAW",
+      "name" : "You Always Win ModPack - YAW",
+      "version" : "2015-11-09-17-27-04",
+      "location" : "you-always-win-modpack---yaw.json",
+      "priority" : 1
+    },
+    {
+      "title" : "DangerZone",
+      "name" : "DangerZone",
+      "version" : "2015-11-09-18-34-05",
+      "location" : "dangerzone.json",
+      "priority" : 1
+    },
+    {
+      "title" : "CakeCraft",
+      "name" : "CakeCraft",
+      "version" : "2015-11-09-18-37-08",
+      "location" : "cakecraft.json",
+      "priority" : 1
+    },
+    {
+      "title" : "CursedCraftMC",
+      "name" : "CursedCraftMC",
+      "version" : "2015-11-09-18-38-39",
+      "location" : "cursedcraftmc.json",
+      "priority" : 1
+    },
+    {
+      "title" : "Ender Foundation",
+      "name" : "Ender Foundation",
+      "version" : "2015-11-09-18-40-18",
+      "location" : "ender-foundation.json",
+      "priority" : 1
+    },
+    {
+      "title" : "SlenderCraft",
+      "name" : "SlenderCraft",
+      "version" : "2015-11-09-18-41-23",
+      "location" : "slendercraft.json",
+      "priority" : 1
+    },
+    {
+      "title" : "EnderX",
+      "name" : "EnderX",
+      "version" : "2015-11-09-20-05-36",
+      "location" : "enderx.json",
+      "priority" : 1
+    },
+    {
+      "title" : "jtrent238's Mega Modpack",
+      "name" : "jtrent238's Mega Modpack",
+      "version" : "2015-11-09-20-43-20",
+      "location" : "jtrent238-s-mega-modpack.json",
+      "priority" : 1
+    },
+    {
+      "title" : "rd-132211",
+      "name" : "rd-132211",
+      "version" : "2015-11-10-16-29-36",
+      "location" : "rd-132211.json",
+      "priority" : 1
+    }
+  ]
+}
